@@ -1,0 +1,12 @@
+{
+  "name": "mpusher/webman-app-route",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Mpusher\\WebmanAppRoute\\": "src"
+    }
+  }
+}
